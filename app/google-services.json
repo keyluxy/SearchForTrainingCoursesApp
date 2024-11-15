@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343522713998",
+    "project_id": "searchfortrainingcourses",
+    "storage_bucket": "searchfortrainingcourses.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343522713998:android:c74a5da347dc247d6404df",
+        "android_client_info": {
+          "package_name": "com.example.searchfortrainingcoursesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfX7dvVQHtx4SnBOM_nQiSUVtmGa7FmLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
