@@ -3,4 +3,7 @@
     <string name="entrance">Вход</string>
     <string name="Email">Email</string>
     <string name="password">Пароль</string>
+    <string name="registration">Регистрация</string>
+    <string name="noAccaunts">Нет аккаунта?</string>
+    <string name="registr">Регистрация</string>
 </resources>

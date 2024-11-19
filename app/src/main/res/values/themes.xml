@@ -3,7 +3,13 @@
     <style name="Base.Theme.SearchForTrainingCoursesApp" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
          <item name="colorPrimary">#12B956</item>
+         <item name="color">@color/blue</item>
     </style>
 
     <style name="Theme.SearchForTrainingCoursesApp" parent="Base.Theme.SearchForTrainingCoursesApp" />
+
+    <style name="vk_btn">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="background">@drawable/ic_button_vk</item>
+    </style>
 </resources>
